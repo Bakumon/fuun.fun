@@ -118,6 +118,12 @@
   url: https://cmd.to/
   description: 娱乐型的在线命令行，可以听 FM、查看新闻、打印有趣的文本等
 
+- title: 零宽字符隐藏加密
+  category: developer
+  logo: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.4/img/ico/zerorovelast.png
+  url: http://zero.rovelast.com/
+  description: 利用零宽字符隐藏加密字符
+
 - title: Picular
   category: creativity
   logo: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.1/img/ico/picular.png
