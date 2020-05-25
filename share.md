@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 提交
+title: 分享
 permalink: /share.html
 ---
 
