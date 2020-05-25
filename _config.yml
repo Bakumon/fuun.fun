@@ -1,4 +1,5 @@
 title: FUUN.FUN
+description: 收集各种有趣
 baseurl: ""
 url: "https://fuun.fun"
 
@@ -10,10 +11,6 @@ sass:
 
 plugins:
   - jekyll-seo-tag
-
-seo:
-  - tagline: 收集各种有趣
-  - description: 收集一些有趣或无聊的网站，帮你发现新鲜事物
 
 compress_html:
   clippings:      all
