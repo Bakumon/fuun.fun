@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+{% for link in site.data.links %}
+<div class="link_item">
+    <div class="content">
+        <img src="{{ link.logo }}" alt="" class="logo">
+        <div class="title a_animation">
+            <a href="{{ link.url }}" target="_blank">{{ link.title }}
+                <img src="https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.1/img/link.svg"></img>
+            </a>
+        </div>
+        <div class="description">{{ link.description }}</div>
+        {% for category in site.data.categories %}
+        {% if category.code==link.category %}
+        <div class="category" style="background-color:{{ category.color }};color:{{ category.color }}">
+            {{ category.name }}
+        </div>
+        {% endif %}
+        {% endfor %}
+    </div>
+</div>
+{% endfor %}
+<div class="link_item">
+    <div class="content">
+        <img src="https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.1/img/share.jpg" alt="" class="logo">
+        <div class="title a_animation">
+            <a href="share.html">我要分享</a>
+        </div>
+        <div class="description">把有趣的网站分享给大家呗~(●'◡'●)</div>
+    </div>
+</div>

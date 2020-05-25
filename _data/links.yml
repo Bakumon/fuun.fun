@@ -1,0 +1,119 @@
+- title: 图片隐写术
+  category: creativity
+  logo: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.2/img/ico/yinxietu.jpg
+  url: https://c.p2hp.com/yinxietu/
+  description: 图片隐写术加密、图片隐写术解密
+
+- title: Link Lock
+  category: creativity
+  logo: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.2/img/ico/LinkLock.ico
+  url: https://jstrieb.github.io/link-lock
+  description: 加密 URL
+
+- title: 猫狗还是情人
+  category: shadiao
+  logo: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.1/img/ico/catdoglover.ico
+  url: https://yanhaixiang.com/cat-dog-lover/
+  description: “做只猫，做只狗，不做情人”--《爱与诚》
+
+- title: 诺基亚短信图片生成器
+  category: shadiao
+  logo: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.1/img/ico/zzkia.png
+  url: https://zzkia.noddl.me/
+  description: 有内鬼 终止交易
+
+- title: 带你去无用的网站
+  category: shadiao
+  logo: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.1/img/ico/theuselessweb.png
+  url: https://theuselessweb.com/
+  description: 点击按钮，随机进入另一个无用的网站
+
+- title: 节奏照片
+  category: shadiao
+  logo: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.1/img/ico/nodtotherhythm.png
+  url: http://nodtotherhythm.com/
+  description: 可以让照片中的人脸跟着音乐律动
+
+- title: 故障电视频道
+  category: shadiao
+  logo: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.1/img/ico/neavetv.png
+  url: https://neave.tv/
+  description: 随机全屏播放稀奇古怪的视频（可能引起不适）
+
+- title: Pixel Pin
+  category: creativity
+  logo: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.1/img/ico/pixelpin.png
+  url: https://www.pixelpin.io/
+  description: 使用图片作为用户密码
+
+- title: Image Charts
+  category: developer
+  logo: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.1/img/ico/imagecharts.png
+  url: https://www.image-charts.com/
+  description: 一个链接就是一个图表
+
+- title: 网站设计博物馆
+  category: history
+  logo: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.1/img/ico/webdesignmuseum.png
+  url:  https://www.webdesignmuseum.org/
+  description: 展出 1600 多个网站从 1991 到 2006 年主页的设计
+
+- title: MECHKEYS
+  category: technology
+  logo: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.1/img/ico/MECHKEYS.jpg
+  url:  https://scrapbox.io/MECHKEYS/
+  description: 收集了非常多设计独特的机械键盘
+
+- title: Radio Garden
+  category: world
+  logo: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.1/img/ico/radio_garden.png
+  url: http://radio.garden/
+  description: 可以收听到世界各地的电台。在世界地图上选一个绿点，就可以收听当地的电台了。
+
+- title: Gource
+  category: developer
+  logo: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.1/img/ico/gource.png
+  url: https://gource.io/
+  description: Gource 可以把代码仓库的提交历史变成视频。你的每一次提交都能让视频中的小人去树上修剪一次枝叶。
+
+- title: CSS 油画
+  category: developer
+  logo: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.1/img/ico/purecss-lace.png
+  url: https://diana-adrianne.com/purecss-lace/
+  description: CSS 代码“画”出来的油画（https://github.com/cyanharlow 查看更多）
+
+- title: 物流艺术
+  category: world
+  logo: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.1/img/ico/logisticsartproject.png
+  url: https://logisticsartproject.com/
+  description: 记录了一个快递是怎样从斯德哥尔摩经过 37 天到达深圳的
+
+- title: 全历史
+  category: history
+  logo: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.1/img/ico/allhistory.svg
+  url: https://www.allhistory.com
+  description: 让用户沉浸在纵横开阔、左图右史的（历史、人文、社科等）知识海洋中
+
+- title: 极像素
+  category: world
+  logo: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.1/img/ico/sigoo.png
+  url: https://www.sigoo.com/
+  description: 超高像素看世界
+
+- title: 骚
+  category: world
+  logo: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.1/img/ico/sao.jpg
+  url: http://www.sao.com/
+  description: 分享世界，连接世界
+
+- title: CMD.TO
+  category: developer
+  logo: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.1/img/ico/cmd.png
+  url: https://cmd.to/
+  description: 娱乐型的在线命令行，可以听 FM、查看新闻、打印有趣的文本等
+
+- title: Picular
+  category: creativity
+  logo: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.1/img/ico/picular.png
+  url: https://picular.co/
+  description: 根据 Google 图片的搜索结果提取颜色

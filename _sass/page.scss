@@ -1,0 +1,44 @@
+.top{
+    width: 100%;
+    height: 350px;
+    overflow: hidden;
+    display: block;
+    position: relative;
+    background: url('https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.1/img/bg_share.jpg') no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-position: 50% 50%;
+}
+
+.wrapper{
+    width: 95%;
+    margin: 0 auto;
+}
+
+.content{
+    color: #4b4848;
+    padding: 40px 20px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.content h1 {
+    margin-bottom: 30px;
+    font-size: 28px;
+}
+
+.content p{
+    color: #4b4848;
+    font-size: 18px;
+    line-height: 38px;
+    margin-bottom: 15px;
+}
+
+.wrapper .commentContent {
+    width: 80%;
+    padding: 40px 20px;
+}

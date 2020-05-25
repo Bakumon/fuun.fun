@@ -1,0 +1,141 @@
+@media (min-width:1024px){
+
+    header .logo{
+        margin-top: 80px;
+    }
+
+    header nav ul{
+        display: block;
+        overflow: hidden;
+        margin-top: 80px;
+        list-style: none;
+    }
+
+    header nav ul li{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        margin-bottom: 20px;
+    }
+
+    header nav ul li .icon {
+        display: flex;
+        align-items: center;
+        border-radius: 25px;
+        padding: 8px;
+    }
+    
+    header nav ul li img {
+        min-width: 18px;
+        min-height: 18px;
+        width: 18px;
+        height: 18px;
+    }
+
+    header nav ul li a{
+        margin-left: 10px;
+        color: #82849c;
+        font-size: 16px;
+        font-weight: 600;
+        text-decoration: none;
+        letter-spacing: 1px;
+    }
+
+    header nav ul li a:hover,
+    header nav ul li a.selected{
+        color: #454545;
+    }
+
+    header .footer{
+        position: absolute;
+        bottom: 15px;
+    }
+
+    header .rights p{
+        color: #454545;
+        font-size: 11px;
+        letter-spacing: 1px;
+    }
+
+    #menu_icon,
+    .close_menu{
+        display: none;
+    }
+
+}
+
+#menu_icon,
+.close_menu{
+    float: right;
+    margin-right: 40px;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    background: url('https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.1/img/men_icons.png') no-repeat;
+}
+
+#menu_icon{    
+    background-position: 0 0;
+}
+.close_menu{
+    background-position: -41px 0!important;
+}
+
+@media (max-width:1024px){
+
+    header .logo{
+        margin: 40px 0 0 30px;
+        float: left;
+    }
+    header .footer{
+        display: none;
+    }
+    header #menu_icon,
+    header .close_menu{
+        float: right;
+        margin: 30px 30px 0 0;
+    }
+    
+    header nav{
+        width: 100%;
+        position: absolute;
+        top: 100px;
+        left: 0;
+        z-index: 9999;
+    }
+
+    header nav ul{
+        list-style: none;
+        display: none;
+        position: relative;
+        box-shadow: 0px 5px 15px -15px black;
+    }
+
+    header nav ul li .icon {
+        display: none;
+    }
+
+    header nav ul li a{
+        display: block;
+        width: 100%;
+        padding: 30px 0;
+        text-align: center;
+        color: #454545;
+        font-size: 14px;
+        text-decoration: none;
+        border-bottom: 1px solid #f7f5f5;
+        background: #fff;
+    }
+    header nav ul li a:active{
+        background: #f7f5f5;
+    }
+    #menu_icon,
+    .close_menu,
+    .show_menu{
+        display: block;
+    }
+    .show_menu{
+        display: block;
+    }
+    
+}

@@ -1,0 +1,19 @@
+title: FUUN.FUN
+description: 收集有趣
+baseurl: ""
+url: "https://fuun.fun"
+
+lang: zh-CN
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+  - jekyll-seo-tag
+
+compress_html:
+  clippings:      all
+  comments:       ["<!--", "-->"]
+  endings:        all
+  startings:      [html, head, body]

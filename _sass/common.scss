@@ -1,0 +1,30 @@
+.a_animation {
+    a,
+    a:link,
+    a:visited,
+    a:focus {
+        text-decoration: none;
+        color: #454545;
+    }
+    
+    a {
+        position: relative;
+        color: #454545;
+    }
+    
+    a::after {
+        content: '';
+        display: block;
+        width: 0;
+        height: 2px;
+        position: absolute;
+        left: 0;
+        bottom: -3px;
+        background: #454545;
+        transition: all 0.3s ease-in-out;
+    }
+    
+    a:hover::after {
+        width: 100%;
+    }
+}

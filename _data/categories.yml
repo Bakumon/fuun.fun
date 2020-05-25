@@ -1,0 +1,35 @@
+- name: 世界
+  code: world
+  icon: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.1/img/category/globe.svg
+  color: "#316AF1"
+  permalink: /world.html
+
+- name: 历史
+  code: history
+  icon: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.1/img/category/book.svg
+  color: "#8EC90E"
+  permalink: /history.html
+
+- name: 科技
+  code: technology
+  icon: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.1/img/category/cpu.svg
+  color: "#02AAFF"
+  permalink: /technology.html
+
+- name: 创意
+  code: creativity
+  icon: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.1/img/category/zap.svg
+  color: "#FFB547"
+  permalink: /creativity.html
+
+- name: 沙雕
+  code: shadiao
+  icon: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.1/img/category/smile.svg
+  color: "#FF4242"
+  permalink: /shadiao.html
+
+- name: 程序员
+  code: developer
+  icon: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.1/img/category/terminal.svg
+  color: "#23C4A4"
+  permalink: /developer.html

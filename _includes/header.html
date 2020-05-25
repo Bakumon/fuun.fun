@@ -1,0 +1,32 @@
+<div class="logo">
+    <a href="./"><img src="https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.1/img/logo.png" /></a>
+</div>
+
+<div id="menu_icon"></div>
+<nav>
+    <ul>
+        {% if page.layout=="index" %}
+        <li><a href="./" class="selected">全部({{ site.data.links.size }})</a></li>
+        {% else %}
+        <li><a href="./">全部({{ site.data.links.size }})</a></li>
+        {% endif %}
+        {% for category in site.data.categories %}
+        <li>
+            <div class="icon" style="background-color: {{ category.color }};">
+                <img src="{{ category.icon }}">
+            </div>
+            {% if page.category==category.code %}
+            <a href="{{ category.permalink }}" class="selected">{{ category.name }}</a>
+            {% else %}
+            <a href="{{ category.permalink }}">{{ category.name }}</a>
+            {% endif %}
+        </li>
+        {% endfor %}
+    </ul>
+</nav>
+
+<div class="footer">
+    <div class="rights">
+        <p class="a_animation">Made by <a href="https://bakumon.me" target="_blank">@Bakumon</a></p>
+    </div>
+</div>
