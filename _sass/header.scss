@@ -1,68 +1,64 @@
-// @media (min-width:1024px){
+header .logo{
+    margin-top: 80px;
+}
 
-    header .logo{
-        margin-top: 80px;
-    }
+header nav ul{
+    display: block;
+    overflow: hidden;
+    margin-top: 80px;
+    list-style: none;
+}
 
-    header nav ul{
-        display: block;
-        overflow: hidden;
-        margin-top: 80px;
-        list-style: none;
-    }
+header nav ul li{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 20px;
+}
 
-    header nav ul li{
-        display: flex;
-        flex-direction: row;
-        align-items: center;
-        margin-bottom: 20px;
-    }
-
-    header nav ul li .icon {
-        display: flex;
-        align-items: center;
-        border-radius: 25px;
-        padding: 8px;
-    }
+header nav ul li .icon {
+    display: flex;
+    align-items: center;
+    border-radius: 25px;
+    padding: 8px;
+}
     
-    header nav ul li img {
-        min-width: 18px;
-        min-height: 18px;
-        width: 18px;
-        height: 18px;
-    }
+header nav ul li img {
+    min-width: 18px;
+    min-height: 18px;
+    width: 18px;
+    height: 18px;
+}
 
-    header nav ul li a{
-        margin-left: 10px;
-        color: #82849c;
-        font-size: 16px;
-        font-weight: 600;
-        text-decoration: none;
-        letter-spacing: 1px;
-    }
+header nav ul li a{
+    margin-left: 10px;
+    color: #82849c;
+    font-size: 16px;
+    font-weight: 600;
+    text-decoration: none;
+    letter-spacing: 1px;
+}
 
-    header nav ul li a:hover,
-    header nav ul li a.selected{
-        color: #454545;
-    }
+header nav ul li a:hover,
+header nav ul li a.selected{
+    color: #454545;
+}
 
-    header .footer{
-        position: absolute;
-        bottom: 15px;
-    }
+header .footer{
+    position: absolute;
+    bottom: 15px;
+}
 
-    header .rights p{
-        color: #454545;
-        font-size: 11px;
-        letter-spacing: 1px;
-    }
+header .rights p{
+    color: #454545;
+    font-size: 11px;
+    letter-spacing: 1px;
+}
 
-    #menu_icon,
-    .close_menu{
-        display: none;
-    }
-
-// }
+#menu_icon,
+.close_menu{
+    display: none;
+}
 
 #menu_icon,
 .close_menu{
