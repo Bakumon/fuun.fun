@@ -8,7 +8,7 @@ ul, li {
     margin: 0;
 }
 
-@media (min-width:1024px) {
+// @media (min-width:1024px) {
     header {
         display: block;
         position: fixed;
@@ -22,7 +22,7 @@ ul, li {
         overflow: hidden;
         z-index: 9999;
     }
-}
+// }
 
 @media (max-width:1024px) {
     header {
