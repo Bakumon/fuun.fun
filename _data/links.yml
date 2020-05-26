@@ -1,30 +1,30 @@
 - title: 天际网络摄像头
   category: world
-  logo: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.9/img/ico/skylinewebcams.png
+  logo: https://i.loli.net/2020/05/26/O89UWl2gBeZLTjz.png
   url: https://www.skylinewebcams.com/
   description: 观看世界各地景区的实时摄像头画面
 
 - title: 深海
   category: world
-  logo: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.8/img/ico/deep-sea.png
+  logo: https://i.loli.net/2020/05/26/XIkynxGh4ZBOcj7.png
   url: https://neal.fun/deep-sea/
   description: 海洋不同深度都有什么生物
 
 - title: 自我销毁网站
   category: creativity
-  logo: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.7/img/ico/thiswebsitewillselfdestruct.png
+  logo: https://i.loli.net/2020/05/26/E2lN58Gz3cFTaZb.png
   url: https://www.thiswebsitewillselfdestruct.com/
   description: 一个匿名网站，如果 24 小时内没有收到访问者的留言，将会自我销毁
 
 - title: 在线 DOS 游戏
   category: history
-  logo: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.3/img/ico/doszczccz.png
+  logo: https://i.loli.net/2020/05/26/JvD18F7isldYnWL.png
   url: https://dos.zczc.cz/
   description: 在线玩 1800+ 个 DOS 游戏（金庸群侠传、仙剑奇侠传、红色警戒等）
 
 - title: 图片隐写术
   category: creativity
-  logo: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.2/img/ico/yinxietu.jpg
+  logo: https://i.loli.net/2020/05/26/AZNxQ76LfzmoHqv.jpg
   url: https://c.p2hp.com/yinxietu/
   description: 图片隐写术加密、图片隐写术解密
 
@@ -42,49 +42,49 @@
 
 - title: 诺基亚短信图片生成器
   category: shadiao
-  logo: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.1/img/ico/zzkia.png
+  logo: https://i.loli.net/2020/05/26/f4dW6KA7tuRxvzo.png
   url: https://zzkia.noddl.me/
   description: 有内鬼 终止交易
 
 - title: 带你去无用的网站
   category: shadiao
-  logo: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.1/img/ico/theuselessweb.png
+  logo: https://i.loli.net/2020/05/26/f4dW6KA7tuRxvzo.png
   url: https://theuselessweb.com/
   description: 点击按钮，随机进入另一个无用的网站
 
 - title: 节奏照片
   category: shadiao
-  logo: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.1/img/ico/nodtotherhythm.png
+  logo: https://i.loli.net/2020/05/26/9YnxXfGZturgTVO.png
   url: http://nodtotherhythm.com/
   description: 可以让照片中的人脸跟着音乐律动
 
 - title: 故障电视频道
   category: shadiao
-  logo: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.1/img/ico/neavetv.png
+  logo: https://i.loli.net/2020/05/26/hfwInGx7BaVJ3Ed.png
   url: https://neave.tv/
   description: 随机全屏播放稀奇古怪的视频（可能引起不适）
 
 - title: Pixel Pin
   category: creativity
-  logo: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.1/img/ico/pixelpin.png
+  logo: https://i.loli.net/2020/05/26/sLV1KRBFrcQD6ym.png
   url: https://www.pixelpin.io/
   description: 使用图片作为用户密码
 
 - title: Image Charts
   category: developer
-  logo: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.1/img/ico/imagecharts.png
+  logo: https://i.loli.net/2020/05/26/AZBjhYESs87gket.png
   url: https://www.image-charts.com/
   description: 一个链接就是一个图表
 
 - title: 网站设计博物馆
   category: history
-  logo: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.1/img/ico/webdesignmuseum.png
+  logo: https://i.loli.net/2020/05/26/rumK1likI9gDRcO.png
   url:  https://www.webdesignmuseum.org/
   description: 展出 1600 多个网站从 1991 到 2006 年主页的设计
 
 - title: MECHKEYS
   category: technology
-  logo: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.1/img/ico/MECHKEYS.jpg
+  logo: https://i.loli.net/2020/05/26/QpdnPi2BxlrZ6eJ.jpg
   url:  https://scrapbox.io/MECHKEYS/
   description: 收集了非常多设计独特的机械键盘
 
@@ -96,19 +96,19 @@
 
 - title: Gource
   category: developer
-  logo: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.1/img/ico/gource.png
+  logo: https://i.loli.net/2020/05/26/BC9a4LSmUtAeGKz.png
   url: https://gource.io/
   description: Gource 可以把代码仓库的提交历史变成视频。你的每一次提交都能让视频中的小人去树上修剪一次枝叶。
 
 - title: CSS 油画
   category: developer
-  logo: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.1/img/ico/purecss-lace.png
+  logo: https://i.loli.net/2020/05/26/jfD4i523QZbAJrx.png
   url: https://diana-adrianne.com/purecss-lace/
   description: CSS 代码“画”出来的油画（https://github.com/cyanharlow 查看更多）
 
 - title: 物流艺术
   category: world
-  logo: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.1/img/ico/logisticsartproject.png
+  logo: https://i.loli.net/2020/05/26/udpsc7vHSgam29M.png
   url: https://logisticsartproject.com/
   description: 记录了一个快递是怎样从斯德哥尔摩经过 37 天到达深圳的
 
@@ -120,30 +120,30 @@
 
 - title: 极像素
   category: world
-  logo: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.1/img/ico/sigoo.png
+  logo: https://i.loli.net/2020/05/26/CU8RsoYql7vM3ST.png
   url: https://www.sigoo.com/
   description: 超高像素看世界
 
 - title: 骚
   category: world
-  logo: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.1/img/ico/sao.jpg
+  logo: https://i.loli.net/2020/05/26/VoZ63Wwdz7FIRtC.jpg
   url: http://www.sao.com/
   description: 分享世界，连接世界
 
 - title: CMD.TO
   category: developer
-  logo: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.1/img/ico/cmd.png
+  logo: https://i.loli.net/2020/05/26/nCx5JFW1awZjMTe.jpg
   url: https://cmd.to/
   description: 娱乐型的在线命令行，可以听 FM、查看新闻、打印有趣的文本等
 
 - title: 零宽字符隐藏加密
   category: developer
-  logo: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.4/img/ico/zerorovelast.png
+  logo: https://i.loli.net/2020/05/26/u2hXnp3yT4LN6xj.png
   url: http://zero.rovelast.com/
   description: 利用零宽字符隐藏加密字符
 
 - title: Picular
   category: creativity
-  logo: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.1/img/ico/picular.png
+  logo: https://i.loli.net/2020/05/26/GErT9qn53wPc4Ds.png
   url: https://picular.co/
   description: 根据 Google 图片的搜索结果提取颜色
