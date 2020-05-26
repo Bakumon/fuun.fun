@@ -1,3 +1,9 @@
+- title: 天际网络摄像头
+  category: world
+  logo: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.9/img/ico/skylinewebcams.png
+  url: https://www.skylinewebcams.com/
+  description: 观看世界各地景区的实时画面
+
 - title: 深海
   category: world
   logo: https://cdn.jsdelivr.net/gh/fuun-fun/static@0.0.8/img/ico/deep-sea.png
