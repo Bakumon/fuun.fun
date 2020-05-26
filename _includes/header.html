@@ -13,7 +13,7 @@
         {% for category in site.data.categories %}
         <li>
             <div class="icon" style="background-color: {{ category.color }};">
-                <img src="{{ category.icon }}">
+                {{ category.icon }}
             </div>
             {% if page.category==category.code %}
             <a href="{{ category.permalink }}" class="selected">{{ category.name }}</a>
