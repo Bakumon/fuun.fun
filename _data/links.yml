@@ -1,5 +1,5 @@
 - title: 在线斯诺克
-  category: creativity
+  category: game
   logo: https://i.loli.net/2020/05/27/5pBs3umAo1FUbnq.png
   url: http://www.heyzxz.me/pcol/
   description: 场景非常真实
@@ -71,7 +71,7 @@
   description: 一个匿名网站，如果 24 小时内没有收到访问者的留言，将会自我销毁
 
 - title: 在线 DOS 游戏
-  category: history
+  category: game
   logo: https://i.loli.net/2020/05/26/JvD18F7isldYnWL.png
   url: https://dos.zczc.cz/
   description: 在线玩 1800+ 个 DOS 游戏（金庸群侠传、仙剑奇侠传、红色警戒等）
@@ -142,13 +142,13 @@
   url:  https://www.webdesignmuseum.org/
   description: 展出 1600 多个网站从 1991 到 2006 年主页的设计
 
-- title: MECHKEYS
-  category: technology
+- title: 机械键盘博物馆
+  category: history
   logo: https://i.loli.net/2020/05/26/QpdnPi2BxlrZ6eJ.jpg
   url:  https://scrapbox.io/MECHKEYS/
   description: 收集了非常多设计独特的机械键盘
 
-- title: Radio Garden
+- title: 电台公园
   category: world
   logo: https://i.loli.net/2020/05/26/BC9a4LSmUtAeGKz.png
   url: http://radio.garden/
