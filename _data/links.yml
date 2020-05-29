@@ -1,3 +1,15 @@
+- title: 自由钢琴
+  category: game
+  logo: https://i.loli.net/2020/05/29/apRHTDezYLsUC1g.png
+  url: https://www.autopiano.cn/
+  description: 在线弹钢琴，有一些歌谱可以使用
+
+- title: 索尼风景图
+  category: world
+  logo: https://i.loli.net/2020/05/29/apRHTDezYLsUC1g.png
+  url: https://www.sony.net/united/clock/
+  description: 可以看一些城市的二十四小时风景照片，里面的音乐也很好听
+
 - title: 濒临灭绝的动物
   category: creativity
   logo: https://i.loli.net/2020/05/28/tjsYoeN47SRGxdE.png
@@ -21,6 +33,12 @@
   logo: https://i.loli.net/2020/05/28/EkNDMCPgb4BVGWl.png
   url: https://logoly.pro/
   description: PornHub 风格 Logo 生成器
+
+- title: P 站
+  category: creativity
+  logo: https://i.loli.net/2020/05/29/hWcBinS4eJHOF8f.png
+  url: https://pixivic.com/
+  description: P 站可访问版
 
 - title: 毒鸡汤
   category: shadiao
@@ -126,7 +144,7 @@
 
 - title: 带你去无用的网站
   category: shadiao
-  logo: https://i.loli.net/2020/05/26/f4dW6KA7tuRxvzo.png
+  logo: https://i.loli.net/2020/05/26/1VarynMlCkoDOiN.png
   url: https://theuselessweb.com/
   description: 点击按钮，随机进入另一个无用的网站
 
@@ -174,7 +192,7 @@
 
 - title: Gource
   category: developer
-  logo: https://i.loli.net/2020/05/26/BC9a4LSmUtAeGKz.png
+  logo: https://i.loli.net/2020/05/29/u9qx4jeCOyXWhHs.png
   url: https://gource.io/
   description: Gource 可以把代码仓库的提交历史变成视频。你的每一次提交都能让视频中的小人去树上修剪一次枝叶。
 
