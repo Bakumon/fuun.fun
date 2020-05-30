@@ -2,10 +2,19 @@ header .logo{
     margin-top: 80px;
 }
 
+header input {
+    display: none;
+} 
+
+header label {
+    display: none;
+}
+
 header nav ul{
+    margin-left: 20px;
     display: block;
     overflow: hidden;
-    margin-top: 80px;
+    margin-top: 50px;
     list-style: none;
 }
 
@@ -55,56 +64,47 @@ header .rights p{
     letter-spacing: 1px;
 }
 
-#menu_icon,
-.close_menu{
-    display: none;
-}
-
-#menu_icon,
-.close_menu{
-    float: right;
-    margin-right: 40px;
-    width: 40px;
-    height: 40px;
-    cursor: pointer;
-    background: url('https://i.loli.net/2020/05/26/QDwzpxX6eavCiMq.png') no-repeat;
-}
-
-#menu_icon{    
-    background-position: 0 0;
-}
-.close_menu{
-    background-position: -41px 0!important;
-}
-
 @media (max-width:1024px){
 
     header .logo{
-        margin: 40px 0 0 30px;
         float: left;
+        margin: 40px 0 0 30px;
     }
+    
     header .footer{
         display: none;
     }
-    header #menu_icon,
-    header .close_menu{
+
+    header input {
+        display: none;
+    } 
+
+    header label {
+        display: block;
         float: right;
-        margin: 30px 30px 0 0;
+        margin: 35px 30px 0 0;
     }
-    
+
+    header label img{
+        width: 40px;
+        height: 40px;
+    }
+
     header nav{
+        padding-top: 20px;
         width: 100%;
-        position: absolute;
-        top: 100px;
-        left: 0;
         z-index: 9999;
     }
 
     header nav ul{
         list-style: none;
-        display: none;
         position: relative;
-        box-shadow: 0px 5px 15px -15px black;
+        width: 100%;
+        margin-left: 0px;
+    }
+
+    header nav ul li {
+        margin-bottom: 0px;
     }
 
     header nav ul li .icon {
@@ -114,24 +114,17 @@ header .rights p{
     header nav ul li a{
         display: block;
         width: 100%;
-        padding: 30px 0;
+        margin-left: 0px;
+        padding: 25px 0;
         text-align: center;
         color: #454545;
-        font-size: 14px;
+        font-size: 16px;
         text-decoration: none;
         border-bottom: 1px solid #f7f5f5;
         background: #fff;
     }
-    header nav ul li a:active{
-        background: #f7f5f5;
+
+    :checked ~ nav {
+        display: none;
     }
-    #menu_icon,
-    .close_menu,
-    .show_menu{
-        display: block;
-    }
-    .show_menu{
-        display: block;
-    }
-    
 }
