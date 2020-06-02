@@ -4,6 +4,12 @@
   url: https://pano.dpm.org.cn/
   description: 线上体验游览故宫，360° 查看各个宫殿，有文字介绍
 
+- title: 木材数据库
+  category: world
+  logo: https://i.loli.net/2020/06/02/KieHaRUO3qXAslD.png
+  url: https://www.wood-database.com/
+  description: 木材数据库，包括硬度排行前十的木材
+
 - title: 遥控车
   category: game
   logo: https://i.loli.net/2020/06/01/e9qif6hZyOACI7F.png
