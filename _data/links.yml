@@ -1,3 +1,9 @@
+- title: 井字棋
+  category: game
+  logo: https://i.loli.net/2020/06/03/KJiGBksopbwIfAh.png
+  url: https://playtictactoe.org/
+  description: 和电脑对战的井字棋，看看你能赢几局
+
 - title: 全景故宫
   category: world
   logo: https://i.loli.net/2020/06/02/BuHjXxYGr5hRa6L.png
@@ -177,12 +183,6 @@
   logo: https://i.loli.net/2020/05/26/9YnxXfGZturgTVO.png
   url: http://nodtotherhythm.com/
   description: 可以让照片中的人脸跟着音乐律动
-
-- title: 故障电视频道
-  category: shadiao
-  logo: https://i.loli.net/2020/05/26/hfwInGx7BaVJ3Ed.png
-  url: https://neave.tv/
-  description: 随机全屏播放稀奇古怪的视频（可能引起不适）
 
 - title: Pixel Pin
   category: creativity
