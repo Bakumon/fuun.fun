@@ -1,3 +1,9 @@
+- title: 漫威 API
+  category: developer
+  logo: https://i.loli.net/2020/06/04/MBNLs2idUnS9vXx.png
+  url: https://developer.marvel.com/
+  description: 漫威提供的 API，获取英雄信息和故事等
+
 - title: 黑白照片上色
   category: creativity
   logo: https://i.loli.net/2020/06/03/RVliYBWyKxkvn4r.png
