@@ -1,3 +1,9 @@
+- title: 卦象二维码
+  category: developer
+  logo: https://i.loli.net/2020/06/04/WqFbp9AMYDCl1tJ.png
+  url: https://iching.codes/
+  description: 用 《易经》的六十四卦象来生成二维码，据说更快
+
 - title: 漫威 API
   category: developer
   logo: https://i.loli.net/2020/06/04/MBNLs2idUnS9vXx.png
