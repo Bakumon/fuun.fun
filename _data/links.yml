@@ -1,8 +1,20 @@
+- title: 不会百度么
+  category: shadiao
+  logo: https://i.loli.net/2020/06/06/O6BM3VLREgGf5Qs.jpg
+  url: http://buhuibaidu.me/
+  description: 有人向你问了不想回答的问题，输入关键字，生成链接，然后发给他
+
 - title: 蒸気機
   category: creativity
   logo: https://i.loli.net/2020/06/06/Bxoe3rnuMIdXFhQ.png
-  url: https://lab.magiconch.com/vaporwave/
+  url: https://geekprank.com/
   description: 虚拟信号蒸汽波风格化影像后期工具
+
+- title: Geek prank
+  category: creativity
+  logo: https://i.loli.net/2020/06/06/gOXjfZkSVpJzbG5.png
+  url: https://geekprank.com/
+  description: 假装 XP 系统和其他系统界面
 
 - title: 快速涂鸦
   category: creativity
