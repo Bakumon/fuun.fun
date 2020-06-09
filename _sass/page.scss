@@ -1,12 +1,13 @@
 
 .wrapper{
-    width: 95%;
-    margin: 0 auto;
+    width: 100%;
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
 }
 
 .content{
+    margin-top: 4rem;
     color: #4b4848;
-    padding: 40px 20px;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
@@ -26,6 +27,6 @@
 }
 
 .wrapper .commentContent {
-    width: 80%;
-    padding: 40px 20px;
+    margin-top: 3rem;
+    max-width: 880px;
 }
