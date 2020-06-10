@@ -1,3 +1,9 @@
+- title: Nand Game
+  category: game
+  logo: https://i.loli.net/2020/06/10/qbGiagCtw31BdPl.png
+  url: http://nandgame.com/
+  description: 通过拖动器件，从逻辑门开始，一步步建造一台电脑
+
 - title: Itch.io 的 H5 游戏
   category: game
   logo: https://i.loli.net/2020/06/10/mjflqxaUAkS92Eb.png
