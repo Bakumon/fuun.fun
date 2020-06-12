@@ -1,3 +1,15 @@
+- title: JS 生成山水画
+  category: developer
+  logo: https://i.loli.net/2020/06/12/B6QeozrC3dFX1At.png
+  url: http://shan-shui-inf.lingdong.works/
+  description: JS 实现的自动生成 svg 格式的中国山水画
+
+- title: 视频换脸
+  category: creativity
+  logo: https://i.loli.net/2020/06/12/VY7sxzBCkuHWUMT.gif
+  url: https://myvoiceyourface.com/
+  description: 上传一张照片和一段视频，网站会将照片里的人脸，替换视频里面的人脸。
+
 - title: Nand Game
   category: game
   logo: https://i.loli.net/2020/06/10/qbGiagCtw31BdPl.png
