@@ -1,3 +1,9 @@
+- title: 项目徽章
+  category: developer
+  logo: https://i.loli.net/2020/06/17/4lqSYOtP3JByj5L.png
+  url: https://shields.io/
+  description: 生成动态或者自定义的徽章，用于开源项目的 README 页面
+
 - title: 网站任意门
   category: shadiao
   logo: https://i.loli.net/2020/06/15/lgKxcoMWa625OSh.png
