@@ -148,6 +148,12 @@
   url: https://artbreeder.com/
   description: 利用 AI 混合两张不同风格的图片，合成一张艺术图
 
+- title: 不会 Google 么
+  category: shadiao
+  logo: https://i.loli.net/2020/06/17/KR5lJmtSqhkyPY3.png
+  url: https://zh.lmgtfy.com/
+  description: 有人向你问了不想回答的问题，输入关键字，生成链接，然后发给他
+
 - title: 不会百度么
   category: shadiao
   logo: https://i.loli.net/2020/06/06/O6BM3VLREgGf5Qs.jpg
