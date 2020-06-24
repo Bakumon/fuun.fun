@@ -1,3 +1,21 @@
+- title: 音乐弹力球
+  category: shadiao
+  logo: https://i.loli.net/2020/06/24/MJgRSOA9elas1yF.png
+  url: https://bouncyballs.org/
+  description: 打开麦克风，放首音乐，弹力球们就会跟着音乐弹跳
+
+- title: Slither.io
+  category: game
+  logo: https://i.loli.net/2020/06/24/IVlmOBaH9rUz78c.png
+  url: http://slither.io/
+  description: 在线多人贪吃蛇
+
+- title: 迷宫生成器
+  category: game
+  logo: https://i.loli.net/2020/06/24/8qoWNIgmB6ywOdP.png
+  url: http://www.mazegenerator.net/
+  description: 迷宫生成器，可选择迷宫大小、风格等
+
 - title: FRVR
   category: game
   logo: https://i.loli.net/2020/06/24/EyNBMCwPcAU54J6.png
