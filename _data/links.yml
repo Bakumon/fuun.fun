@@ -16,6 +16,12 @@
   url: http://www.mazegenerator.net/
   description: 迷宫生成器，可选择迷宫大小、风格等
 
+- title: 扫雷
+  category: game
+  logo: https://i.loli.net/2020/06/24/TZBnC9JHcxMpWqg.png
+  url: http://www.saolei.org.cn/
+  description: 在线版扫雷
+
 - title: FRVR
   category: game
   logo: https://i.loli.net/2020/06/24/EyNBMCwPcAU54J6.png
