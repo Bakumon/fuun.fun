@@ -1,3 +1,15 @@
+- title: 在线魔方
+  category: game
+  logo: https://i.loli.net/2020/07/07/1bwENZfk6dMWLzQ.png
+  url: https://aaron-bird.github.io/demo/rubiks-cube/
+  description: 简易版在线魔方
+
+- title: 今日诗词
+  category: creativity
+  logo: https://i.loli.net/2020/06/29/tD63sQ2KT5GdRrh.png
+  url: https://www.jinrishici.com/
+  description: 根据时间、地点、天气、事件智能推荐一句诗词
+
 - title: 四大名著地图
   category: world
   logo: https://i.loli.net/2020/06/24/iCDLncF2N4B1yAd.png
@@ -6,7 +18,7 @@
 
 - title: 音乐弹力球
   category: shadiao
-  logo: https://i.loli.net/2020/06/24/MJgRSOA9elas1yF.png
+  logo: https://i.loli.net/2020/06/29/pTGcnKJzXktVobv.png
   url: https://bouncyballs.org/
   description: 打开麦克风，放首音乐，弹力球们就会跟着音乐弹跳
 
