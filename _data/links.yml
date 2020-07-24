@@ -1,3 +1,15 @@
+- title: 建造房子
+  category: game
+  logo: https://i.loli.net/2020/07/24/PCXHUNZV3QLFc9f.png
+  url: http://oskarstalberg.com/game/house/index.html
+  description: 解压神器--使用砖块随心所欲建造大楼
+
+- title: 分享文本
+  category: creativity
+  logo: https://i.loli.net/2020/07/24/obMfl5kvmzxBUYt.png
+  url: https://pasteme.cn/
+  description: 把一段纯文本或者代码片段通过 URL 分享出去，支持密码和阅后即焚
+
 - title: press-ctrl
   category: game
   logo: https://i.loli.net/2020/07/21/N1cXJV63aslmkwz.png
