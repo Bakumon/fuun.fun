@@ -1,3 +1,9 @@
+- title: No JS 扫雷
+  category: developer
+  logo: https://i.loli.net/2020/07/31/pbnGmUMXCh4oxVL.jpg
+  url: https://propjockey.github.io/css-sweeper/
+  description: html + css 实现的扫雷游戏，无 JavaScript（<a href="https://github.com/propjockey/css-sweeper" target="_blank">源码</a>）
+
 - title: 建造房子
   category: game
   logo: https://i.loli.net/2020/07/24/PCXHUNZV3QLFc9f.png
