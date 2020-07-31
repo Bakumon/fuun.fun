@@ -1,4 +1,10 @@
-- title: No JS 扫雷
+- title: 动物之森图鉴
+  category: creativity
+  logo: https://i.loli.net/2020/07/31/OjR3HSIyA8iPmn6.png
+  url: http://diobulanduo.gitee.io/animalcrossing.github.io
+  description: 快速根据月份、地点等信息对鱼类和昆虫进行筛选
+
+- title: 扫雷（Html + CSS）
   category: developer
   logo: https://i.loli.net/2020/07/31/pbnGmUMXCh4oxVL.jpg
   url: https://propjockey.github.io/css-sweeper/
