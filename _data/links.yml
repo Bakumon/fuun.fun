@@ -1,3 +1,15 @@
+- title: 中华珍宝馆
+  category: history
+  logo: https://i.loli.net/2020/10/24/xCpG57DLVlSKMg9.png
+  url: http://www.ltfc.net/
+  description: 在线的中国字画的博物馆
+
+- title: 找色差流体模拟
+  category: creativity
+  logo: https://i.loli.net/2020/10/24/NqnMoyha5gsf7Gd.png
+  url: https://paveldogreat.github.io/WebGL-Fluid-Simulation/
+  description: 滑动鼠标可产生非常绚丽的流体
+
 - title: 找色差
   category: game
   logo: https://i.loli.net/2020/10/24/jipuWsUlO3IRn9w.png
