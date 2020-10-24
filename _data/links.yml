@@ -1,3 +1,57 @@
+- title: 编程聆听音乐
+  category: developer
+  logo: https://i.loli.net/2020/10/24/pEaSjJC5sfTbOl9.png
+  url: http://musicforprogramming.net/
+  description: 专为编程时聆听而设计的协作混合系列
+
+- title: 书签地球
+  category: creativity
+  logo: https://i.loli.net/2020/10/24/gLrmq3tv7YGXzJu.png
+  url: https://www.bookmarkearth.com/
+  description: 分享和查看别人的书签，可能会看到非常有意思的内容
+
+- title: 最佳应用
+  category: creativity
+  logo: https://i.loli.net/2020/10/24/Q5zufXLl3kw7SKj.png
+  url: http://www.zuijiastore.com/
+  description: 最佳应用-分享好玩、有趣、实用的应用
+
+- title: 押韵助手
+  category: creativity
+  logo: https://i.loli.net/2020/10/24/qWZ6KMJj5nupQi3.png
+  url: https://yayun.la/
+  description: 在线查押韵的字、词、诗、歌
+
+- title: 时光邮局
+  category: creativity
+  logo: https://i.loli.net/2020/10/24/lC39MNasgTFYqEo.png
+  url: https://www.hi2future.com/
+  description: 给未来的自己写信
+
+- title: 工具邦
+  category: creativity
+  logo: https://i.loli.net/2020/10/24/NgWfSA1UTzMKb5I.png
+  url: http://cn.piliapp.com/
+  description: 一系列常用的在线工具
+
+- title: 信聚网
+  category: world
+  logo: https://i.loli.net/2020/10/24/YEB1O5UFDJqoQmX.png
+  url: https://xinjh.info/
+  description: 网络有趣资源收集分享
+
+- title: Google 实验室
+  category: creativity
+  logo: https://i.loli.net/2020/10/24/uOFwBt7g9fUZqpj.png
+  url: https://experiments.withgoogle.com/
+  description: Google 实验室（Experiments with Google）--各种探索、创意、边界等实验项目的展示平台
+
+- title: 100,000 Stars
+  category: world
+  logo: https://i.loli.net/2020/10/24/z6fpwaZsuXFVxn8.png
+  url: https://stars.chromeexperiments.com/
+  description: 璀璨星河一触即达，宇宙星系在线观赏(来自 <a href="https://experiments.withgoogle.com/" target="_blank">Google 实验室</a>)
+
 - title: Mikutap
   category: creativity
   logo: https://i.loli.net/2020/08/30/hC49tR53cJunQVo.png
