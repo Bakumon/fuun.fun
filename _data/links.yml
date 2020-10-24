@@ -1,3 +1,21 @@
+- title: Nazo Game
+  category: game
+  logo: https://i.loli.net/2020/10/24/7Pesfu5vgiWFU6l.png
+  url: https://nazo.one-story.cn/
+  description: 一款解密游戏，一共 50 关
+
+- title: Bongo cat
+  category: creativity
+  logo: https://i.loli.net/2020/10/24/mRC5A4OQgkbYzJS.png
+  url: https://bongo.cat/
+  description: 一只猫在操作各种乐器
+
+- title: 拼图游戏
+  category: game
+  logo: https://i.loli.net/2020/10/24/AhLNKRnV6ZXoE5T.png
+  url: https://www.puzzle-nonograms.com/
+  description: 各种规则的拼图游戏，包括 Android 10 系统彩蛋游戏 Nonograms
+
 - title: 编程聆听音乐
   category: developer
   logo: https://i.loli.net/2020/10/24/pEaSjJC5sfTbOl9.png
