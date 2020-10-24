@@ -4,6 +4,24 @@
   url: http://www.ltfc.net/
   description: 在线的中国字画的博物馆
 
+- title: 书格子
+  category: world
+  logo: https://i.loli.net/2020/10/24/qGUYQTLbaviM9oh.png
+  url: https://new.shuge.org/
+  description: 非常多设计奇特的建筑
+
+- title: Arch Daily
+  category: world
+  logo: https://i.loli.net/2020/10/24/lmg81UMfwJIxazi.png
+  url: https://www.archdaily.cn/
+  description: 非常多设计奇特的建筑
+
+- title: 数字帝国
+  category: creativity
+  logo: https://i.loli.net/2020/10/24/eiM7faDAUdltcv4.png
+  url: https://zh.numberempire.com/
+  description: 集合了很多数学工具
+
 - title: 每日一文
   category: creativity
   logo: https://i.loli.net/2020/10/24/6wLDUkBdpg8PNEH.jpg
