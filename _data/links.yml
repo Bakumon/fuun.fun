@@ -1,3 +1,33 @@
+- title: Wallhaven
+  category: creativity
+  logo: https://i.loli.net/2020/10/25/VhZqrf5AE32WNHC.png
+  url: https://wallhaven.cc/
+  description: 大型艺术壁纸
+
+- title: creative park
+  category: creativity
+  logo: https://i.loli.net/2020/10/25/KHhzBfIlEcU8VA5.png
+  url: https://creativepark.canon/
+  description: 免费纸模型素材
+
+- title: flipanim
+  category: creativity
+  logo: https://i.loli.net/2020/10/25/lA9YCvWIV7XJKTz.gif
+  url: https://flipanim.com/
+  description: 手绘翻页动画，发挥你的创意吧
+
+- title: mixkit
+  category: creativity
+  logo: https://i.loli.net/2020/10/25/dmgxIYLQaV2HDys.png
+  url: https://mixkit.co/
+  description: 免费视频素材
+
+- title: 故事接龙
+  category: creativity
+  logo: https://i.loli.net/2020/10/25/WlvoAfxyjZTMDw5.png
+  url: https://gushijielong.net/
+  description: 以选择故事发展路线的形式看故事，如果玩到了最后，你可以继续接力下去
+
 - title: 中华珍宝馆
   category: history
   logo: https://i.loli.net/2020/10/24/xCpG57DLVlSKMg9.png
