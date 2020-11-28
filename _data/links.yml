@@ -1,3 +1,21 @@
+- title: 失落的十年游戏厅
+  category: game
+  logo: https://i.loli.net/2020/11/28/71bvKjUlOapgrQX.png
+  url: http://arcade.lostdecadegames.com/
+  description: 包含一些复古的小游戏
+
+- title: VEBGE
+  category: game
+  logo: https://i.loli.net/2020/11/28/VwF4dpZ3jOkSEKc.png
+  url: https://venge.io/
+  description: 网页版 VEBGE
+
+- title: POKI 游戏平台
+  category: game
+  logo: https://i.loli.net/2020/11/28/lfcR2ZC7roIwY9X.png
+  url: https://poki.com/
+  description: 包含非常多的在线玩的小游戏
+
 - title: YORG
   category: game
   logo: https://i.loli.net/2020/11/28/jPlzOcqdY2gBFM4.png
