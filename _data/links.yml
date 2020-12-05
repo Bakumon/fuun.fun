@@ -1,3 +1,15 @@
+- title: 2020年度 JS13K Games 竞赛
+  category: game
+  logo: https://i.loli.net/2020/12/05/ysMZwXbCtU9W6n5.png
+  url: https://github.blog/2020-10-11-top-ten-games-from-the-js13k-2020-competition/
+  description: 代码量不超过 13K 的小游戏，JS13K 比赛前十名
+
+- title: 2020年的100项最佳发明
+  category: world
+  logo: https://i.loli.net/2020/12/05/CsN6ihPHgTFzL5I.png
+  url: https://time.com/collection/best-inventions-2020/
+  description: 《时代》杂志评选的2020年100项最佳发明
+
 - title: 辞职信生成器
   category: shadiao
   logo: https://i.loli.net/2020/12/03/bomyYfuUsIF2nt8.png
