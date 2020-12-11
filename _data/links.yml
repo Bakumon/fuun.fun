@@ -1,3 +1,9 @@
+- title: 这不存在
+  category: creativity
+  logo: https://i.loli.net/2020/12/11/QyVhiYsTOoZqXg6.png
+  url: https://thisxdoesnotexist.com/
+  description: 收集各种不存在，如 AI 生成的不存在的人、猫等
+
 - title: 2020年度 JS13K Games 竞赛
   category: game
   logo: https://i.loli.net/2020/12/05/ysMZwXbCtU9W6n5.png
