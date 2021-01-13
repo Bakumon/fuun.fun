@@ -1,5 +1,5 @@
 - title: 百年纪念灯泡
-  category: history
+  category: world
   logo: https://i.loli.net/2021/01/13/MDK9I51QRUivPaf.png
   url: https://humanclock.com/
   description: 展示已经亮了百年的灯泡
@@ -17,7 +17,7 @@
   description: 可以捏脸制作各种头像，主要是二次元风格
 
 - title: 这不存在
-  category: creativity
+  category: ai
   logo: https://i.loli.net/2020/12/11/QyVhiYsTOoZqXg6.png
   url: https://thisxdoesnotexist.com/
   description: 收集各种不存在，如 AI 生成的不存在的人、猫等
@@ -77,7 +77,7 @@
   description: 非常炫的字符跳动效果
 
 - title: 网页美观度
-  category: creativity
+  category: ai
   logo: https://i.loli.net/2020/10/31/FPN9sUjnHTaW4X5.png
   url: https://myraah.io/visualmind
   description: 通过 AI 给你的网页美观度进行评分
@@ -119,7 +119,7 @@
   description: 以选择故事发展路线的形式看故事，如果玩到了最后，你可以继续接力下去
 
 - title: 中华珍宝馆
-  category: history
+  category: world
   logo: https://i.loli.net/2020/10/24/xCpG57DLVlSKMg9.png
   url: http://www.ltfc.net/
   description: 在线的中国字画的博物馆
@@ -148,7 +148,7 @@
   url: https://www.meiriyiwen.com/
   description: 随机推荐一篇短篇文章的网站
 
-- title: 找色差流体模拟
+- title: 流体模拟
   category: creativity
   logo: https://i.loli.net/2020/10/24/NqnMoyha5gsf7Gd.png
   url: https://paveldogreat.github.io/WebGL-Fluid-Simulation/
@@ -167,7 +167,7 @@
   description: 一款解密游戏，一共 50 关
 
 - title: Bongo cat
-  category: creativity
+  category: shadiao
   logo: https://i.loli.net/2020/10/24/mRC5A4OQgkbYzJS.png
   url: https://bongo.cat/
   description: 一只猫在操作各种乐器
@@ -179,7 +179,7 @@
   description: 各种规则的拼图游戏，包括 Android 10 系统彩蛋游戏 Nonograms
 
 - title: 编程聆听音乐
-  category: developer
+  category: creativity
   logo: https://i.loli.net/2020/10/24/pEaSjJC5sfTbOl9.png
   url: http://musicforprogramming.net/
   description: 专为编程时聆听而设计的协作混合系列
@@ -311,7 +311,7 @@
   description: 快速根据月份、地点等信息对鱼类和昆虫进行筛选
 
 - title: 扫雷（Html + CSS）
-  category: developer
+  category: game
   logo: https://i.loli.net/2020/07/31/pbnGmUMXCh4oxVL.jpg
   url: https://propjockey.github.io/css-sweeper/
   description: html + css 实现的扫雷游戏，无 JavaScript（<a href="https://github.com/propjockey/css-sweeper" target="_blank">源码</a>）
@@ -419,7 +419,7 @@
   description: 在线网页视频连线，对方打开你分享的链接就可以和你视频通话了
 
 - title: Deepart
-  category: creativity
+  category: ai
   logo: https://i.loli.net/2020/06/17/zIZFoLXDbeiwQ7g.png
   url: https://deepart.io/
   description: 上传图片，选择艺术风格，生成艺术画作
@@ -443,19 +443,19 @@
   description: 收集所有被 Google 废弃的产品，为它们做了“墓碑”
 
 - title: 项目徽章
-  category: developer
+  category: creativity
   logo: https://i.loli.net/2020/06/17/4lqSYOtP3JByj5L.png
   url: https://shields.io/
   description: 生成动态或者自定义的徽章，用于开源项目的 README 页面
 
 - title: JS 生成山水画
-  category: developer
+  category: creativity
   logo: https://i.loli.net/2020/06/12/B6QeozrC3dFX1At.png
   url: http://shan-shui-inf.lingdong.works/
   description: JS 实现的自动生成 svg 格式的中国山水画
 
 - title: 视频换脸
-  category: creativity
+  category: ai
   logo: https://i.loli.net/2020/06/12/VY7sxzBCkuHWUMT.gif
   url: https://myvoiceyourface.com/
   description: 上传一张照片和一段视频，网站会将照片里的人脸，替换视频里面的人脸。
@@ -509,7 +509,7 @@
   description: 收集一些奇特的树
 
 - title: 此人不存在
-  category: creativity
+  category: ai
   logo: https://i.loli.net/2020/06/15/8GjeXz6iBAapEcg.png
   url: https://thispersondoesnotexist.com/
   description: 每次打开或刷新网页，都会显示一张由 AI 绘制并且真实不存在的人脸
@@ -557,7 +557,7 @@
   description: 拼音首字母缩写释义工具，识别网络缩写字母
 
 - title: AI 图片合成
-  category: creativity
+  category: ai
   logo: https://i.loli.net/2020/06/06/W96bBoVp1vE4OTq.jpg
   url: https://artbreeder.com/
   description: 利用 AI 混合两张不同风格的图片，合成一张艺术图
@@ -587,7 +587,7 @@
   description: 假装 XP 系统和其他系统界面
 
 - title: 快速涂鸦
-  category: creativity
+  category: ai
   logo: https://i.loli.net/2020/06/06/gmOSQDuU3TH2RV4.png
   url: https://quickdraw.withgoogle.com/
   description: 20 秒时间，你画 AI 猜
@@ -599,13 +599,13 @@
   description: 移动鼠标放风筝，制造动听的声音
 
 - title: 视频变漫画
-  category: creativity
+  category: ai
   logo: https://i.loli.net/2020/06/05/IpXehfbGHjnqArW.png
   url: https://comixify.ai/
   description: 输入一个视频链接，网站借助 AI 功能将这个视频变成漫画
 
 - title: 开源人物肖像
-  category: developer
+  category: world
   logo: https://i.loli.net/2020/06/04/tmhIK3c4s5gl6Li.png
   url: http://www.facesofopensource.com/
   description: 那些推动计算机革命的开源程序员的肖像
@@ -617,19 +617,13 @@
   description: 选择某个核弹查看爆炸影响的范围大小
 
 - title: 卦象二维码
-  category: developer
+  category: creativity
   logo: https://i.loli.net/2020/06/04/WqFbp9AMYDCl1tJ.png
   url: https://iching.codes/
   description: 用 《易经》的六十四卦象来生成二维码，据说更快
 
-- title: 漫威 API
-  category: developer
-  logo: https://i.loli.net/2020/06/04/MBNLs2idUnS9vXx.png
-  url: https://developer.marvel.com/
-  description: 漫威提供的 API，获取英雄信息和故事等
-
 - title: 黑白照片上色
-  category: creativity
+  category: ai
   logo: https://i.loli.net/2020/06/03/RVliYBWyKxkvn4r.png
   url: https://colourise.sg/
   description: 基于深度学习来给老旧的黑白照片自动上色
@@ -706,7 +700,7 @@
   url: https://logoly.pro/
   description: PornHub 风格 Logo 生成器
 
-- title: P 站
+- title: pixivic
   category: creativity
   logo: https://i.loli.net/2020/05/31/FHWOs3ApbxDfc7G.png
   url: https://pixivic.com/
@@ -718,14 +712,8 @@
   url: https://8zt.cc/
   description: 获取无穷无尽的毒鸡汤
 
-- title: 图片粒子效果
-  category: developer
-  logo: https://i.loli.net/2020/05/27/tPr93M6X2WlAuZk.png
-  url: https://codepen.io/zadvorsky/pen/PNXbGo
-  description: 非常炫酷的图片变换粒子效果
-
 - title: 9 GANS
-  category: creativity
+  category: ai
   logo: https://i.loli.net/2020/05/27/9eTP3dhSaruyfbo.png
   url: https://9gans.com/
   description: 每小时产生 9 张由人工智能创作的绘画作品
@@ -749,7 +737,7 @@
   description: 移动鼠标，根据动物叫声大小找到它们
 
 - title: 知妖（中国妖怪百集）
-  category: history
+  category: world
   logo: https://i.loli.net/2020/05/26/1knUiR9ZAFYhyOM.jpg
   url: http://www.cbaigui.com/
   description: 收集中国古今妖怪
@@ -766,8 +754,8 @@
   url: https://neal.fun/deep-sea/
   description: 海洋不同深度都有什么生物
 
-- title: 在线AI图像处理
-  category: creativity
+- title: AI 图像处理
+  category: ai
   logo: https://i.loli.net/2020/05/26/koAY3SD1Qf8EKc7.png
   url: https://photo.opencool.cn/
   description: 黑白图像修复、图像无损放大和人像动漫化等
@@ -833,19 +821,19 @@
   description: 使用图片作为用户密码
 
 - title: Image Charts
-  category: developer
+  category: creativity
   logo: https://i.loli.net/2020/05/26/AZBjhYESs87gket.png
   url: https://www.image-charts.com/
   description: 一个链接就是一个图表
 
 - title: 网站设计博物馆
-  category: history
+  category: world
   logo: https://i.loli.net/2020/05/26/rumK1likI9gDRcO.png
   url:  https://www.webdesignmuseum.org/
   description: 展出 1600 多个网站从 1991 到 2006 年主页的设计
 
 - title: 机械键盘博物馆
-  category: history
+  category: world
   logo: https://i.loli.net/2020/05/26/QpdnPi2BxlrZ6eJ.jpg
   url:  https://scrapbox.io/MECHKEYS/
   description: 收集了非常多设计独特的机械键盘
@@ -857,13 +845,13 @@
   description: 可以收听到世界各地的电台。在世界地图上选一个绿点，就可以收听当地的电台了。
 
 - title: Gource
-  category: developer
+  category: creativity
   logo: https://i.loli.net/2020/05/29/u9qx4jeCOyXWhHs.png
   url: https://gource.io/
   description: Gource 可以把代码仓库的提交历史变成视频。你的每一次提交都能让视频中的小人去树上修剪一次枝叶。
 
 - title: CSS 油画
-  category: developer
+  category: creativity
   logo: https://i.loli.net/2020/05/26/jfD4i523QZbAJrx.png
   url: https://diana-adrianne.com/purecss-lace/
   description: CSS 代码“画”的油画（<a href="https://github.com/cyanharlow" target="_blank">https://github.com/cyanharlow 查看更多</a>）
@@ -875,7 +863,7 @@
   description: 记录了一个快递是怎样从斯德哥尔摩经过 37 天到达深圳的
 
 - title: 全历史
-  category: history
+  category: world
   logo: https://i.loli.net/2020/05/27/TPMdKil5V1qzLof.png
   url: https://www.allhistory.com
   description: 让用户沉浸在纵横开阔、左图右史的（历史、人文、社科等）知识海洋中
@@ -899,13 +887,13 @@
   description: 分享世界，连接世界
 
 - title: CMD.TO
-  category: developer
+  category: creativity
   logo: https://i.loli.net/2020/05/26/nCx5JFW1awZjMTe.jpg
   url: https://cmd.to/
   description: 娱乐型的在线命令行，可以听 FM、查看新闻、打印有趣的文本等
 
-- title: 零宽字符隐藏加密
-  category: developer
+- title: 隐藏式加密
+  category: creativity
   logo: https://i.loli.net/2020/05/26/u2hXnp3yT4LN6xj.png
   url: http://zero.rovelast.com/
   description: 利用零宽字符隐藏加密字符
