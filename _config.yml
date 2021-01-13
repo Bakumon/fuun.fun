@@ -17,3 +17,6 @@ compress_html:
   comments:       ["<!--", "-->"]
   endings:        all
   startings:      [html, head, body]
+
+# 开发模式下，不启用统计和广告
+isDev: false
