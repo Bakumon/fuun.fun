@@ -1,3 +1,15 @@
+- title: 荷兰国家博物馆
+  category: world
+  logo: https://i.loli.net/2021/02/05/MPFc7a5kU9KORwZ.png
+  url: https://www.rijksmuseum.nl/
+  description: 网上浏览荷兰国家博物馆大量珍贵的藏品
+
+- title: 网络聊天
+  category: creativity
+  logo: https://i.loli.net/2021/02/05/MPFc7a5kU9KORwZ.png
+  url: https://darkwire.io/
+  description: 简单的加密网络聊天，分享房间链接给朋友即可开始加密聊天
+
 - title: 2020 游戏
   category: game
   logo: https://i.loli.net/2021/01/26/7I9yuFV2PwSvBz5.png
