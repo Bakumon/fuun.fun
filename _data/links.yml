@@ -1,3 +1,9 @@
+- title: 全球天气
+  category: world
+  logo: https://i.loli.net/2021/02/07/fIQLx5b6MPFKEpt.png
+  url: https://earth.nullschool.net/
+  description: 一个全球天气状况的视觉化
+
 - title: 我的世界
   category: game
   logo: https://i.loli.net/2021/02/05/5wExtXzpAnmfsoG.png
