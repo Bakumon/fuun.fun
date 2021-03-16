@@ -1,8 +1,14 @@
+- title: 10 万亿像素的夜空
+  category: world
+  logo: https://i.loli.net/2021/03/16/xIaAR2rsGEQ3TDP.png
+  url: https://viewer.legacysurvey.org/
+  description: 全球多个天文台合作，经过6年的1405个夜晚的观测，将天文望远镜拍摄到的照片，合并成一张10万亿像素的图片，包含超过十亿个星系，覆盖整个天空的三分之一。
+
 - title: Frinkiac
   category: game
   logo: https://i.loli.net/2021/03/16/nfKaDWFgQSRYV6P.png
   url: https://frinkiac.com/
-  description: Frinkiac拥有近300万个Simpsons屏幕截图，可按自然语言搜索，如：crying out glayvin
+  description: Frinkiac 拥有近 300 万个《辛普森一家》的屏幕截图，可按自然语言搜索，如：crying out glayvin
 
 - title: 信任的进化
   category: game
