@@ -3,6 +3,9 @@ layout: default
 ---
 
 {% for link in site.data.links %}
+{% if link.title=="ad" %}
+{%- include google_ads_item.html -%}
+{% else %}
 <div class="link_item">
     <div class="content">
         <img src="{{ link.logo }}" alt="" class="logo" loading=lazy>
@@ -25,6 +28,7 @@ layout: default
         {% endif %}
         {% endfor %}
     </div>
+    {% endif %}
 </div>
 {% endfor %}
 {%- include google_ads_item.html -%}
