@@ -46,6 +46,8 @@
   url: https://toonify.photos/
   description: 可将人脸照片转换成 3D 的动画效果
 
+- title: ad
+
 - title: Deep Nostalgia
   category: ai
   logo: https://i.loli.net/2021/03/16/oZ75XravGux4lnU.gif
@@ -63,8 +65,6 @@
   logo: https://i.loli.net/2021/03/16/nfKaDWFgQSRYV6P.png
   url: https://frinkiac.com/
   description: Frinkiac 拥有近 300 万个《辛普森一家》的屏幕截图，可按自然语言搜索，如：crying out glayvin
-
-- title: ad
 
 - title: 信任的进化
   category: game
