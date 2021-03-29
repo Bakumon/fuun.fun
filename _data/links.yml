@@ -1,3 +1,9 @@
+- title: OneLook 词典
+  category: creativity
+  logo: https://i.loli.net/2021/03/29/jHyd9v2cs6fYeIB.png
+  url: https://www.onelook.com/
+  description: OneLook 词典搜索，满足各种搜索单词需求
+
 - title: 塞班朋克风格
   category: creativity
   logo: https://i.loli.net/2021/03/28/HtewPpzcA1KhNUd.jpg
@@ -40,13 +46,13 @@
   url: https://platform.leolabs.space/visualization
   description: 感受地球低轨道太空的实际状态
 
+- title: ad
+
 - title: DOS Zone
   category: game
   logo: https://i.loli.net/2021/03/19/Kvwf2Gx7hW3bFuV.png
   url: https://dos.zone/
   description: 拥有非常多的 DOS 游戏
-
-- title: ad
 
 - title: Toonify
   category: ai
