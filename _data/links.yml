@@ -4,6 +4,30 @@
   url: https://game.chronodivide.com/
   description: 红色警戒 2 在线对战版
 
+- title: 搜韵
+  category: world
+  logo: https://i.loli.net/2021/04/01/uCq1Pd7r2ThW5ox.png
+  url: https://sou-yun.cn/
+  description: 搜韵网共收录约90万首古今诗词作品，其中近现代及之前的诗词作品约83万。
+
+- title: Flash 保存计划
+  category: creativity
+  logo: https://i.loli.net/2021/04/01/XizEJcNduweG7Y6.png
+  url: https://flash.zczc.cz/
+  description: 一些 Flash 的游戏或者动画
+
+- title: unsplash
+  category: creativity
+  logo: https://i.loli.net/2021/04/01/HLejM51suV4nIWA.png
+  url: https://unsplash.com/
+  description: 无版权图片网站
+
+- title: 万能命令
+  category: creativity
+  logo: https://i.loli.net/2021/04/01/ZrfqYN8yd5ibUaA.png
+  url: https://wanneng.run/
+  description: 万能命令是一个在线工具快捷跳转平台
+
 - title: OneLook 词典
   category: creativity
   logo: https://i.loli.net/2021/03/29/jHyd9v2cs6fYeIB.png
@@ -21,6 +45,8 @@
   logo: https://i.loli.net/2021/03/29/1Xcskxb7JuvKeiH.png
   url: https://www.jinrishici.com/
   description: 每次返回一句诗词。根据时间、地点、天气、事件智能推荐
+
+- title: ad
 
 - title: 卢浮宫藏品
   category: world
@@ -45,8 +71,6 @@
   logo: https://i.loli.net/2021/03/23/g8cM2ShfVJHtDmU.png
   url: https://fc.zhouxiaoben.info/
   description: 免费怀旧，FC游戏在线
-
-- title: ad
 
 - title: 近地轨道可视化
   category: world
