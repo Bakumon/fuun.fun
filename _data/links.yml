@@ -1,3 +1,9 @@
+- title: 红色警戒 2
+  category: game
+  logo: https://i.loli.net/2021/04/01/lCoDHTmXtrG6i7V.png
+  url: https://game.chronodivide.com/
+  description: 红色警戒 2 在线对战版
+
 - title: OneLook 词典
   category: creativity
   logo: https://i.loli.net/2021/03/29/jHyd9v2cs6fYeIB.png
@@ -40,13 +46,13 @@
   url: https://fc.zhouxiaoben.info/
   description: 免费怀旧，FC游戏在线
 
+- title: ad
+
 - title: 近地轨道可视化
   category: world
   logo: https://i.loli.net/2021/03/19/Lj2UwxGIkmgvpyY.png
   url: https://platform.leolabs.space/visualization
   description: 感受地球低轨道太空的实际状态
-
-- title: ad
 
 - title: DOS Zone
   category: game
