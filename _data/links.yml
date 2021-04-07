@@ -1,3 +1,9 @@
+- title: 高教书苑
+  category: creativity
+  logo: https://i.loli.net/2021/04/07/sCTJzEpIcgR6xmk.png
+  url: https://ebook.hep.com.cn/ebooks/index.html#/
+  description: 高等教育出版社的在线平台，该社出版的3000多本书籍，都可以免费阅读高清版本
+
 - title: ToonMe
   category: ai
   logo: https://i.loli.net/2021/04/07/IZ47K3q69pEXMgi.jpg
@@ -40,13 +46,13 @@
   url: https://www.onelook.com/
   description: OneLook 词典搜索，满足各种搜索单词需求
 
+- title: ad
+
 - title: 塞班朋克风格
   category: creativity
   logo: https://i.loli.net/2021/03/28/HtewPpzcA1KhNUd.jpg
   url: https://photomosh.com/
   description: 生成各种十分赛博朋克故障风的照片
-
-- title: ad
 
 - title: 今日诗词
   category: creativity
