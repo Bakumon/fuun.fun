@@ -2,18 +2,12 @@
 layout: default
 ---
 
-{% for link in site.data.links limit:8 %}
+{% for link in site.data.links %}
     {%- include link.html -%}
+    {% assign mycount = mycount | plus: 1%}
+    {% if mycount == 8 %}
+        {%- include google_ads_item.html -%}
+    {% endif %}
 {% endfor %}
-
-{%- include google_ads_item.html -%}
-
-{% assign size = site.data.links.size | minus:1 %}
-{% for i in (8..size) %}
-    {% assign link = site.data.links[i] %}
-    {%- include link.html -%}
-{% endfor %}
-
-{%- include google_ads_item.html -%}
-
+<!-- {%- include google_ads_item.html -%} -->
 {%- include share_item.html -%}

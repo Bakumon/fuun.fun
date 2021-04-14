@@ -3,9 +3,13 @@ layout: default
 ---
 
 {% for link in site.data.links %}
-    {% if page.category== link.category%}
+    {% if page.category == link.category %}
         {%- include link.html -%}
+        {% assign mycount = mycount | plus: 1%}
+        {% if mycount == 8 %}
+            {%- include google_ads_item.html -%}
+        {% endif %}
     {% endif %}
 {% endfor %}
-{%- include google_ads_item.html -%}
+<!-- {%- include google_ads_item.html -%} -->
 {%- include share_item.html -%}
