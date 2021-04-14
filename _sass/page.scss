@@ -7,7 +7,6 @@
 
 .content{
     padding-top: 3rem;
-    color: #4b4848;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
@@ -17,10 +16,11 @@
 .content h1 {
     margin-bottom: 30px;
     font-size: 28px;
+    color: var(--title-text-color);
 }
 
 .content p{
-    color: #4b4848;
+    color: var(--text-color);
     font-size: 18px;
     line-height: 38px;
     margin-bottom: 15px;

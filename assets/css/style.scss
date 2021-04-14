@@ -7,3 +7,21 @@
 @import "header";
 @import "index";
 @import "page";
+
+:root {
+    --background-color: #f8f8f8;
+    --item-background-color: #fff;
+    --title-text-color: #2a2f36;
+    --text-color: #6c7a89;
+    --border-color: #f7f5f5;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --background-color: #171514;
+        --item-background-color: #232222;
+        --title-text-color: #efefef;
+        --text-color: #b8b8b8;
+        --border-color: #262626;
+    }
+}

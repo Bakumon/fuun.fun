@@ -8,16 +8,15 @@
 .link_item .content {
     height: 250px;
     border-radius: 8px;
-    border: 1px solid rgba(0,0,0,.05);
-    box-shadow: 0 10px 40px -10px rgba(0,0,0,.1);
-    background: #fff;
+    box-shadow: 0 5px 10px -10px rgba(0,0,0,.1);
+    background: var(--item-background-color);
     padding: 20px 25px;
 	-webkit-transition: .2s linear;
 	transition: .2s linear;
 }
 
 .link_item .content:hover {
-    box-shadow: 0 10px 40px -10px rgba(0,0,0,.15);
+    box-shadow: 0 5px 10px -10px rgba(0,0,0,.15);
     transform: translate3d(0px, -8px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); 
     transform-style: preserve-3d;
     -webkit-transition: .2s linear;
@@ -45,7 +44,7 @@
 
 .link_item .content .description {
     margin-top: 12px;
-    color: #82849c;
+    color: var(--text-color);
     font-size: 13px;
     line-height: 18px;
 }

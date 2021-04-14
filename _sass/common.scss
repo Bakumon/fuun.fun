@@ -4,12 +4,12 @@
     a:visited,
     a:focus {
         text-decoration: none;
-        color: #454545;
+        color: var(--title-text-color);
     }
     
     a {
         position: relative;
-        color: #454545;
+        color: var(--title-text-color);
     }
     
     a::after {
@@ -20,7 +20,7 @@
         position: absolute;
         left: 0;
         bottom: -3px;
-        background: #454545;
+        background: var(--title-text-color);
         transition: all 0.3s ease-in-out;
     }
     

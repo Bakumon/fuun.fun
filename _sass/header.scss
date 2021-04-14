@@ -39,9 +39,9 @@ header nav ul li svg {
     height: 18px;
 }
 
-header nav ul li a{
+header nav ul li a {
     margin-left: 10px;
-    color: #82849c;
+    color: var(--text-color);
     font-size: 16px;
     font-weight: 600;
     text-decoration: none;
@@ -50,7 +50,7 @@ header nav ul li a{
 
 header nav ul li a:hover,
 header nav ul li a.selected{
-    color: #454545;
+    color: var(--title-text-color);
 }
 
 header .footer{
@@ -59,7 +59,7 @@ header .footer{
 }
 
 header .rights p{
-    color: #454545;
+    color: var(--text-color);
     font-size: 11px;
     letter-spacing: 1px;
 }
@@ -117,11 +117,11 @@ header .rights p{
         margin-left: 0px;
         padding: 25px 0;
         text-align: center;
-        color: #454545;
+        color: var(--text-color);
         font-size: 16px;
         text-decoration: none;
-        border-bottom: 1px solid #f7f5f5;
-        background: #fff;
+        border-bottom: 1px solid var(--border-color);
+        
     }
 
     :checked ~ nav {

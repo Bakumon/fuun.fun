@@ -1,5 +1,5 @@
 body {
-    background: #fff;
+    background: var(--background-color);
     margin:0;
 }
 
@@ -16,7 +16,6 @@ header {
     width: 200px;
     min-height: 100%;
     padding: 0 0 0 50px;
-    background: #ffffff; 
     float: left;
     overflow: hidden;
     z-index: 9999;
@@ -29,7 +28,6 @@ header {
         min-height: 100px;
         padding: 0;
         position: relative;
-        background: #ffffff; 
     }
 }
 
