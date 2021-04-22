@@ -1,7 +1,13 @@
+- title: FRVR六边形
+  category: game
+  logo: https://i.loli.net/2021/04/22/1QrURfNkYIb9sxO.png
+  url: https://hex.frvr.com/zh-Hans/
+  description: 类似俄罗斯方块的小游戏
+
 - title: 雪景小屋（白噪音）
   category: creativity
   logo: https://i.loli.net/2021/04/22/4RLDfzwk5nJrHbS.png
-  url: http://snowyescape.com/ 
+  url: http://snowyescape.com/
   description: 一个安静的屋子，壁炉里的火燃烧着，窗外下着雪（可以调节火和雪的声音大小）
 
 - title: 恶搞蒙娜丽莎
