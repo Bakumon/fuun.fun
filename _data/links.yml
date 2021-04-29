@@ -1,3 +1,15 @@
+- title: wikiHow
+  category: creativity
+  logo: https://i.loli.net/2021/04/29/4gsulkiPvf615jw.png
+  url: https://zh.wikihow.com/
+  description: wikiHow 教你做任何事
+
+- title: 小鸡词典
+  category: creativity
+  logo: https://i.loli.net/2021/04/29/h7LvsiqfFAw6XVH.png
+  url: https://jikipedia.com/
+  description: 查网络流行语
+
 - title: 涉及训练
   category: game
   logo: https://i.loli.net/2021/04/29/SEgKyQqZ6hjwaGz.png
@@ -5,7 +17,7 @@
   description: FPS游戏爱好者在线练枪的网站，内含各种训练
 
 - title: 虚拟手机号
-  category: world
+  category: creativity
   logo: https://i.loli.net/2021/04/29/TuIVmzasN4oESYx.png
   url: https://jiemahao.com/
   description: 在线的虚拟手机号，可以用来接受注册网站账号的验证码，不用担心手机号泄漏
